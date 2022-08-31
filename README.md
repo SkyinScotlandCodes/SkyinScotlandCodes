@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [![Susie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyinScotlandCodes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -31,6 +32,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SkyinScotlandCodes.SkyinScotlandCodes&left_color=purple&right_color=gray) 
