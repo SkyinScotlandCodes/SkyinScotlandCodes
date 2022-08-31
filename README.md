@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 [![Susie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyinScotlandCodes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=SkyinScotlandCodes.SkyinScotlandCodes&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SkyinScotlandCodes.SkyinScotlandCodes&left_color=red&right_color=green) 
