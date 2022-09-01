@@ -92,4 +92,9 @@ Python                   1 repo              ███████████�
  Last Updated on 01/09/2022 17:47:11 UTC
 <!--END_SECTION:waka-->
 
+
+
+
+<!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SkyinScotlandCodes.SkyinScotlandCodes&left_color=purple&right_color=gray) 
+-->
