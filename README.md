@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -62,13 +62,13 @@ Sunday       15 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   21 hrs 3 mins       ████████████████████████░   98.83% 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+Python                   19 hrs 26 mins      ████████████████████████░   98.74% 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  21 hrs 18 mins      █████████████████████████   100.0%
+Windows                  19 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +81,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 16/09/2022 18:50:37 UTC
+ Last Updated on 17/09/2022 18:46:54 UTC
 <!--END_SECTION:waka-->
 
 
