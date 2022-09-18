@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,13 +62,12 @@ Sunday       15 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   19 hrs 26 mins      ████████████████████████░   98.74% 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Python                   13 hrs 5 mins       █████████████████████████   99.78% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  19 hrs 41 mins      █████████████████████████   100.0%
+Windows                  13 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +80,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 17/09/2022 18:46:54 UTC
+ Last Updated on 18/09/2022 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 
