@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Susie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyinScotlandCodes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm is Susie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Susie
 =============================================================================================================================
 
 I'm interested in data analytics, machine learning & AI etc.
