@@ -16,6 +16,20 @@ Here are some ideas to get you started:
 [![Susie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyinScotlandCodes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm is Susie
+=============================================================================================================================
+
+I'm interested in data analytics, machine learning & AI etc.
+
+*   🌍  I'm based in Scotland
+*   🧠  I'm learning SQL, Python
+*   🤝  I'm open to collaborating on interesting projects### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+                    
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2026%20mins-blue)
 
