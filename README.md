@@ -32,7 +32,7 @@ I'm interested in data analytics, machine learning & AI etc.
 </p>
                     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,10 +77,10 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   38 mins             █████████████████████████   100.0%
+Python                   2 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.0%
+Windows                  2 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 12/10/2022 18:56:53 UTC
+ Last Updated on 13/10/2022 18:57:28 UTC
 <!--END_SECTION:waka-->
 
 
