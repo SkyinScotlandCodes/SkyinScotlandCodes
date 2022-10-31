@@ -34,13 +34,13 @@ I'm interested in data analytics, machine learning & AI etc.
 ![](https://komarev.com/ghpvc/?username=SkyinScotlandCodes)
                     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 125 Contributions in the Year 2022
  > 
-> 📦 38.8 kB Used in GitHub's Storage 
+> 📦 38.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,12 +77,12 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   13 hrs 27 mins      █████████████████████████   99.75% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   12 hrs 4 mins       █████████████████████████   99.72% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Windows                  13 hrs 29 mins      █████████████████████████   100.0%
+Windows                  12 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +95,7 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 30/10/2022 18:44:58 UTC
+ Last Updated on 31/10/2022 18:49:21 UTC
 <!--END_SECTION:waka-->
 
 
