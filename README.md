@@ -77,10 +77,10 @@ Sunday       57 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -94,7 +94,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 17/11/2022 18:42:09 UTC
+ Last Updated on 18/11/2022 18:43:33 UTC
 <!--END_SECTION:waka-->
 
 
